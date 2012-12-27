@@ -1,4 +1,4 @@
-geometric-principles-and-procedures-for-computer-graphic-applications
+geoprin
 =====================================================================
 
-a modern interactive spin on the classic book by Sylvan H. Chasen
+a modern interactive spin on the classic book "geometric principles and procedures for computer graphic applications" by Sylvan H. Chasen
